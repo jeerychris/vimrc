@@ -1,1 +1,1 @@
-# vimrc
+## vimrc and common plugins
